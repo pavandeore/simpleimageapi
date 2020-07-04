@@ -1,10 +1,3 @@
-#btn{
-    padding: 10px;
-    font-family: arial;
-    font-size: 20px;
-    margin-left: 40vw;
-    display: none;
-  } 
   #imgdiv{
     margin-top: 30px;
     display: flex;
@@ -14,6 +7,13 @@
     height: 350px;
     width: 400px;
   }
-input{
+select , button {
     padding: 7px;   
-}
+ }
+#btn{
+    padding: 10px;
+    font-family: arial;
+    font-size: 20px;
+    margin-left: 40vw;
+    display: none;
+  }
